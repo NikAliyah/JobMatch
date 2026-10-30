@@ -63,8 +63,8 @@ Development tools: Laragon, phpMyAdmin, Visual Studio Code, Google Chrome.
 
 1. Clone the repository into your web folder (for Laragon, the `www` folder):
    ```
-   git clone https://github.com/NikAliyah/JobMatch.git
-   cd JobMatch
+   git clone https://github.com/NikAliyah/jobmatch.git
+   cd jobmatch
    ```
 2. Install dependencies:
    ```
