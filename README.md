@@ -99,7 +99,7 @@ These are demo accounts for local testing only.
 ```
 
 ## Documentation
-The full project report, including the ERD, system requirements, interface overview, features and workflow, is in [`JobMatch_report.pdf`](JobMatch_report.pdf).
+The full project report, including the ERD, system requirements, interface overview, features and workflow, is in [`JobMatch_report.pdf`](JobMatch/report.pdf).
 
 ## Limitations
 - Built as a university course project and not deployed to production.
