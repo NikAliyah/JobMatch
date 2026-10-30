@@ -81,8 +81,8 @@ Development tools: Laragon, phpMyAdmin, Visual Studio Code, Google Chrome.
 ## Demo accounts
 | Role | Email | Password |
 |---|---|---|
-| Admin | [email demo] | [password demo] |
-| Job seeker | [email demo] | [password demo] |
+| Admin | admin@admin.com | Admin123! |
+| Job seeker | aliyah@gmail.com | Ai@486298 |
 
 These are demo accounts for local testing only.
 
@@ -91,7 +91,7 @@ These are demo accounts for local testing only.
 ├── config/        application and database configuration
 ├── database/      jobmatch.sql
 ├── report/        project report (PDF)
-├── screenshots/   images used in this README
+├── screenshots/   interface of the system
 ├── src/           controllers and models
 ├── templates/     views
 ├── webroot/       public assets
